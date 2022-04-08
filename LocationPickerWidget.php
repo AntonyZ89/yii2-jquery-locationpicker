@@ -1,5 +1,5 @@
 <?php
-namespace pigolab\locationpicker;
+namespace antonyz89\locationpicker;
 
 use yii\web\View;
 use yii\helpers\Html;
