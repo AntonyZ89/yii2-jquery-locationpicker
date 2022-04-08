@@ -9,7 +9,7 @@ use yii\base\InvalidConfigException;
  */
 class CoordinatesPickerAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@pigolab/locationpicker/assets';
+    public $sourcePath = '@antonyz89/locationpicker/assets';
     public $css = [
         'coordinates-picker.css'
     ];
