@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "pigochu\\locationpicker\\": ""
+            "antonyz89\\locationpicker\\": ""
         }
     }
 }
